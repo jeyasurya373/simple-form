@@ -1,0 +1,9 @@
+.name::after{
+content: "*";
+    color:red;
+
+}
+.area{
+    width: 400px;
+    height: 150px;
+}
